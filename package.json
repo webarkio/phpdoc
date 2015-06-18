@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/webarksystems/phpdoc.git"
+    "url": "https://github.com/webarkio/phpdoc.git"
   },
   "keywords": [
     "php",
@@ -17,7 +17,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/webarksystems/phpdoc/issues"
+    "url": "https://github.com/webarkio/phpdoc/issues"
   },
-  "homepage": "https://github.com/webarksystems/phpdoc"
+  "homepage": "https://github.com/webarkio/phpdoc"
 }
