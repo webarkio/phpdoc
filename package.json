@@ -1,0 +1,23 @@
+{
+  "name": "phpdocumentator",
+  "version": "2.8.3",
+  "description": "npm package for phpDocumentator2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webarksystems/phpdoc.git"
+  },
+  "keywords": [
+    "php",
+    "documentator"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webarksystems/phpdoc/issues"
+  },
+  "homepage": "https://github.com/webarksystems/phpdoc"
+}
